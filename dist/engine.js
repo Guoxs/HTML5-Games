@@ -67,7 +67,7 @@ var SpriteSheet = (function() {
     this.map = spriteData;
     this.image = new Image();
     this.image.onload = callback;
-    this.image.src = 'images/sprites.png';
+    this.image.src = './dist/images/sprites.png';
   };
 
   this.draw = function(ctx,sprite,x,y,frame) {

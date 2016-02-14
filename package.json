@@ -1,0 +1,9 @@
+{
+	"name": "HTML5-Games",
+	"version": "0.0.1",
+	"description": "HTML5-Games for mobile",
+	"dependencies": {
+		"socket.io": "~0.9.6",
+		"mime": "~1.2.7"
+	}
+}
